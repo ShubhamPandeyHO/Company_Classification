@@ -1,5 +1,6 @@
 # FinancialPerformanceData
 
+![istockphoto-184962061-1024x1024](https://github.com/ShubhamPandeyHO/Company_Classification/assets/122806275/c1eb671d-dce5-4553-91c8-05667221795a)
 
 
 # Data information:
